@@ -2,7 +2,7 @@ To reproduce the issue, run `gradle clean foo`.
 
 This will work on `233`, but will fail on `241`.
 
-The file dynamically created by IDEA `241`, linked in the stacktrace, is: [`ijresolvers2.gradle#L136`](./ijresolvers2.gradle#136)
+The file dynamically created by IDEA `241`, linked in the stacktrace, is: [`ijresolvers2.gradle#L136`](./ijresolvers2.gradle#L136)
 
 
 ```
